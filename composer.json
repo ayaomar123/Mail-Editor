@@ -10,6 +10,7 @@
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
+        "outhebox/laravel-translations": "^0.0.6",
         "qoraiche/laravel-mail-editor": "^4.0"
     },
     "require-dev": {
